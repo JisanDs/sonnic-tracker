@@ -100,4 +100,4 @@ Free to use for learning and personal projects. Just give credit if you fork! �
 
 ## 🙌 Created By
 
-Built with ❤️ by [Jisan] and [Sonnic AI].
+Built with ❤️ by [Jisan] and [Chat Gpt AI].
